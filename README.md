@@ -22,7 +22,7 @@
 #
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/9e/d8/ff/9ed8ffc99e4dbcc2e221740e1bfe4676.gif" width="700"/>
+  <img src="https://pin.it/69lAHWCkt" width="700"/>
 </p>
 
 
