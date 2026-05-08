@@ -30,8 +30,7 @@ available for freelance and collaborative projects.
 
 **find me here**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://miguelfreittas.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguelfreittas)
+**WIP**
 
 ---
 
