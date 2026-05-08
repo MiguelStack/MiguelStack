@@ -3,16 +3,15 @@
 
 <div align="center">
 
-# ola, eu sou o Miguel
 
-**desenvolvedor web & python · 17 anos · inglês fluente**
+** web developer & Python · 17 years old **
 
 <br/>
-Disponível para freelas e projetos colaborativos.
+available for freelance and collaborative projects.
 
 ---
 
-###  tools
+**  tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
 <img width="10" />
@@ -26,17 +25,17 @@ Disponível para freelas e projetos colaborativos.
 
 ---
 
-###  github stats
+**  stats
 
-![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguelfreittas&show_icons=true&theme=default&hide_border=true&count_private=true)
+(https://streak-stats.demolab.com/?user=miguelfreittas)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfreittas&layout=compact&theme=default&hide_border=true)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfreittas&layout=compact&theme=default&hide_border=true)
 
 ---
 
-### onde me encontrar
+** find me here
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://miguelfreittas.github.io)
+(https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://miguelfreittas.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguelfreittas)
 
 ---
