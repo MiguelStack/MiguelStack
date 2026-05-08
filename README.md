@@ -2,27 +2,46 @@
 
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://i.pinimg.com/736x/c4/10/c7/c410c7c8c7bb31013500d214a7da8a8b.jpg" height="30" alt="capcut logo"  />
-  <img width="12" />
-  <img src="https://play-lh.googleusercontent.com/OU0BlP8C9-V7ECl2crma7B48nzDbK7liSLjn0j_fpTlyWG6qyEE-mw_KFZ9aOXF0a3w" height="30" alt="alight motion logo"  />
-  <img width="12" />  
 
-#
+# ola, eu sou o Miguel
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/a0/3d/c9/a03dc92a6528b39fce71e850c12c47cd.gif" width="700"/>
-</p>
+**desenvolvedor web & python · 17 anos · inglês fluente**
+
+<br/>
+Disponível para freelas e projetos colaborativos.
+
+---
+
+###  tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#"/>
+
+---
+
+###  github stats
+
+![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguelfreittas&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfreittas&layout=compact&theme=default&hide_border=true)
+
+---
+
+### onde me encontrar
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://miguelfreittas.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguelfreittas)
+
+---
+
+<img src="https://i.pinimg.com/originals/a0/3d/c9/a03dc92a6528b39fce71e850c12c47cd.gif" width="500"/>
 
 
-
-
+</div>
