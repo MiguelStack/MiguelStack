@@ -25,11 +25,6 @@
 
 ---
 
-**find me here**
-
-**WIP**
-
----
 
 <img src="https://i.pinimg.com/originals/a0/3d/c9/a03dc92a6528b39fce71e850c12c47cd.gif" width="500"/>
 
