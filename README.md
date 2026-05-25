@@ -1,6 +1,6 @@
 <div align="center">
 
-**Web developer & Python · 17 years old · 🇧🇷**
+**Web developer & Python · 16 years old · 🇧🇷**
 
 
 ---
